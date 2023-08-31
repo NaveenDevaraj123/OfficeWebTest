@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "509680425700",
+    "firebase_url": "https://imercfy-30b28-default-rtdb.firebaseio.com",
+    "project_id": "imercfy-30b28",
+    "storage_bucket": "imercfy-30b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509680425700:android:00ae042678c29b2ac6eaf1",
+        "android_client_info": {
+          "package_name": "com.imercfy.imercfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509680425700-eivo7b9mdk99ikr5f95hnn4g118p00hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imercfy.imercfy",
+            "certificate_hash": "0209206cf21456cccceac603c0dc14a495f6a8cb"
+          }
+        },
+        {
+          "client_id": "509680425700-paevm14s0gcm8d396fek8t0snpuko6tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imercfy.imercfy",
+            "certificate_hash": "a813faabbffcb5a1662bb9b233001e7bc46d6cd7"
+          }
+        },
+        {
+          "client_id": "509680425700-7lu2ide7j4t81ku32go50bfk5la3n5s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYXada_rC_fHvkwkGeNniQeAm76TEUyJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509680425700-7lu2ide7j4t81ku32go50bfk5la3n5s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509680425700-bvivnv5fgnseaqg7hn6cv02fhbf5ofr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imercfy.imercfy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
